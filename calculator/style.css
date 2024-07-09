@@ -1,0 +1,25 @@
+.section{
+    margin:10px 20px;
+   
+}
+.container{
+    background-color: aqua;
+    margin: 0px 50px;
+}
+.col-3{
+    border: 2px solid aqua;
+    background-color: white;
+    margin:5px 0px;
+    text-align: center;
+}
+.col-3 p{
+    margin:30px;
+}
+h3{
+    text-align:center;
+    color: rgb(0, 0, 0);
+}
+input{
+    margin: 1px 5px 1px 1px;
+    padding: 5px 5px 5px 5px;
+}
